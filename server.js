@@ -3,7 +3,7 @@ const cors = require('cors');
 const app = express();
 
 const server = app.listen(process.env.PORT || 8000, () => {
-  console.log('Server is running...');
+  console.log('Server is runningg...');
 });
 
 // put your endpoints here
